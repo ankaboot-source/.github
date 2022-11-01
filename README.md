@@ -1,2 +1,0 @@
-# .github
-github for ankaboot
